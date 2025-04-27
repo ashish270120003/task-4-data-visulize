@@ -1,3 +1,4 @@
+<img width="1470" alt="Screenshot 2025-04-27 at 8 20 54 PM" src="https://github.com/user-attachments/assets/f383d627-b1df-4d20-8718-f01c4cc7a0c0" />
 <img width="1470" alt="Screenshot 2025-04-27 at 12 44 21 PM" src="https://github.com/user-attachments/assets/7852d338-5e06-47aa-8f40-21585a22872e" />
 # task-4-data-visulize
 
