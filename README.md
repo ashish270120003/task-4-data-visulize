@@ -1,5 +1,4 @@
-<img width="1470" alt="Screenshot 2025-04-27 at 8 20 54 PM" src="https://github.com/user-attachments/assets/f383d627-b1df-4d20-8718-f01c4cc7a0c0" />
-<img width="1470" alt="Screenshot 2025-04-27 at 12 44 21 PM" src="https://github.com/user-attachments/assets/7852d338-5e06-47aa-8f40-21585a22872e" />
+![Sales](https://github.com/user-attachments/assets/441bfcc8-19a7-4218-b2ce-2a74f29e8140)
 # task-4-data-visulize
 
 
@@ -51,20 +50,7 @@ The dashboard focuses on key business metrics like **Sales**, **Profit**, and **
 -  The Technology category had the highest profit margins.
 -  The East Region contributed the most to annual sales.
 
----
-
-## 📂 Files Included
-- `Dashboard_Task4.twbx` (Tableau dashboard file)
-- `Dataset.csv` or `Dataset.xlsx` (if allowed)
-- `Summary_Presentation.pptx` (PowerPoint file)
-- `README.md` (this file)
-
----
-
-
----
-
 # 🙌 Thank you!
 
----
+
 
